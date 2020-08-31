@@ -7,7 +7,7 @@ Decision trees are constructed via an algorithmic approach that identifies ways 
 
 #### Colab
 Open task 1 notebook in colab: &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepConnectAI/challenge-week-4/blob/master/task_1_multiclass_logistic.ipynb)<br>
-Open task 2 notebook in colab: &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepConnectAI/challenge-week-3/blob/master/task_2_decision_tree_viz.ipynb)
+Open task 2 notebook in colab: &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepConnectAI/challenge-week-4/blob/master/task_2_decision_tree_viz.ipynb)
 
 How to get the data using wget?
 ```python
